@@ -1,4 +1,7 @@
+# Site settings
 title: Haukås
+email: 
+
 # Build settings
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
